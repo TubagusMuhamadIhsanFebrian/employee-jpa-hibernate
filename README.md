@@ -1,7 +1,11 @@
+# HERLAN ALAN SUHERMAN_I.2510319
+- credit : [aliimndev](https://github.com/aliimndev)
+
 # JavaPersistence - Employee Management Application
 
 Aplikasi desktop CRUD (Create, Read, Update, Delete) untuk manajemen data karyawan menggunakan **Java 21 LTS**, **Hibernate ORM**, dan **MySQL Database**.
-
+## 🧮 hasil
+<img width="1920" height="1080" alt="Screenshot 2026-04-07 113955" src="https://github.com/user-attachments/assets/5ef57484-433f-4e26-bcf3-23a51675e2a2" />
 ## 🔧 Prerequisites
 
 Sebelum menjalankan aplikasi, pastikan sudah install:
